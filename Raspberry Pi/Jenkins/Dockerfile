@@ -1,4 +1,4 @@
-FROM crazybun/arm-oracle-jdk:8u251
+FROM crazybun/maven:3.6.3
 ARG CrazyBunQnQ
 
 EXPOSE 8080
